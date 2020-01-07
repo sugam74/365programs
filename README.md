@@ -1,6 +1,6 @@
-# This is my 365 days challenge to solve 365 different type of problems woth different type of languages
+# This is my 365 days challenge to solve 365 different type of problems with different type of languages
 
-# Languages I will use here is : Python, Javascript, Java
+# Languages used here are : Python, Javascript, Java
 
-# You are welcome to suggest anything ( you can give me a problem as well )
+# You are welcome to suggest anything ( you can suggest me problems as well )
 

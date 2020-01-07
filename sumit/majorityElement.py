@@ -18,4 +18,4 @@ def majorityElement(arr):
 
 if __name__ == '__main__':
     arr = [3, 3, 4, 2, 4, 4, 2, 4, 4]
-    p
+    print(majorityElement(arr))

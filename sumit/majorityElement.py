@@ -6,6 +6,8 @@
 
 def majorityElement(arr):
     dict = {}
+    if len(arr) == 1:
+        return arr[0]
     for i in (arr):
         if dict.get(i):
             dict[i] = dict.get(i) + 1
